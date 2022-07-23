@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_user_inscription"
+        android:icon="@drawable/ic_user"
+        android:title="Enregistrer un profil">
+    </item>
+    <item
+        android:id="@+id/nav_list_user"
+        android:icon="@drawable/ic_list"
+        android:title="liste des profils">
+    </item>
+</menu>
